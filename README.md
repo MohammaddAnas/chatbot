@@ -14,11 +14,8 @@ https://github.com/your-username/Gemini-Chatbot
 
 ### Home Page
 
-![Home Page](screenshots/home.png)
+![Home Page](screenshot/home.png)
 
-### About Page
-
-![About Page](screenshots/about.png)
 
 ## Features
 
