@@ -8,7 +8,7 @@ https://chatbot-19yr.onrender.com
 
 ## Project Repository
 
-https://github.com/your-username/Gemini-Chatbot
+https://github.com/MohammaddAnas/chatbot.git
 
 ## Screenshots
 
