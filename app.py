@@ -7,7 +7,7 @@ import json
 load_dotenv()
 
 app = Flask(__name__)
-app.secret_key = "temporary-test-secret"
+app.secret_key = os.getenv("secret_key)
 
 genai.configure(api_key=os.getenv("api_key"))
 
