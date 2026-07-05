@@ -169,7 +169,7 @@ gunicorn
 
 ## Author
 
-**Muhammad Anas**
+**Mohammad Anas**
 
 Computer Science Engineering Student
 
